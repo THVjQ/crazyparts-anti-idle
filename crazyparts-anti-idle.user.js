@@ -5,7 +5,7 @@
 // @description Prevents logout by pinging the server and simulating activity every 4 minutes.
 // @author Gemini
 // @match https://www.crazyparts.com.au/*
-// @match https://crazyparts.com.au/*
+// @match https://www.crazyparts.com.au/*
 // @grant none
 // ==/UserScript==
 
