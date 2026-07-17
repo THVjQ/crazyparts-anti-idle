@@ -1,3 +1,4 @@
+// CP
 // ==UserScript==
 // @name CrazyParts Anti-Idle (Keep Alive)
 // @namespace http://tampermonkey.net/
